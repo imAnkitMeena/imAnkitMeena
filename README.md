@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Meena</h1>
 <h3 align="center">I'm a Final Year Student at Dr B R Ambedkar National Institute of Technology , Jalandhar pursuing a degree in Instrumentation and Control Engineering. I am determined to secure an internship opportunity where I can apply my knowledge and contribute to impactful projects in the field of software & Hardware development.</h3>
 
-- 🌱 I’m currently learning **Full Stack Development,Data Analytics**
+- 🌱 I’m currently looking for full time oppurtunity as **Software Engineer & Hardware Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imAnkitMeena](https://github.com/imAnkitMeena)
 
